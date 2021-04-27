@@ -21,3 +21,4 @@ steps:
     repository: 'bryaalbani/app_frontend'
     command: 'buildAndPush'
     Dockerfile: '**/Dockerfile'
+    tags: 'latest'
